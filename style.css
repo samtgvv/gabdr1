@@ -1,0 +1,44 @@
+.yes {
+    font-size: 30px;
+    color: rgb(5, 144, 5);
+}
+
+.no {
+    font-size: 30px;
+    color: red;
+}
+
+.mas {
+    font-style: italic;
+    font-weight: 500;
+}
+
+.posl {
+    margin-top: 5px;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.count {
+    font-size: 25px;
+}
+
+.list {
+    font-size: 23px;
+    font-weight: 500;
+    color: brown;
+    list-style:disc;
+    font-style: italic;
+}
+
+.stud {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sp {
+    font-weight: 500 !important;
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+}
